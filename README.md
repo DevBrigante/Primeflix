@@ -2,12 +2,14 @@
 
 # Primeflix
 
-O **Primeflix** é uma apliccação web feita com ReactJs que permite ao usuário visualizar dados reais dos filmes mais populares de acordo com o site **https://www.themoviedb.org/**
+O **Primeflix** é uma aplicação web feita com ReactJs que permite ao usuário visualizar dados reais dos filmes mais populares de acordo com o site **https://www.themoviedb.org/**
 
 No primeflix até o momento, você pode pesquisar pelos filmes e ver os seus detalhes, como: resumo e nota de avaliação. 
 
+⚠️ **Nota importante**: Este projeto foi feito para testar meus conhecimentos em hooks, lógica de programação e responsividade.
+
 ## Acessar versão online
-[Primeflix](https://cripto.com)
+[Primeflix](primeflix-lemon.vercel.app)
 
 
 ## 🚀 Recursos e Tecnologia 
