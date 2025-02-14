@@ -9,7 +9,7 @@ No primeflix até o momento, você pode pesquisar pelos filmes e ver os seus det
 ⚠️ **Nota importante**: Este projeto foi feito para testar meus conhecimentos em hooks, lógica de programação e responsividade.
 
 ## Acessar versão online
-[Primeflix](primeflix-lemon.vercel.app)
+[Primeflix](https://primeflix-lemon.vercel.app/)
 
 
 ## 🚀 Recursos e Tecnologia 
